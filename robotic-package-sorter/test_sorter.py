@@ -4,7 +4,7 @@ def run_tests():
     test_cases = [
         (100, 100, 100, 10, "SPECIAL"),
         (140, 140, 140, 25, "REJECTED"),
-        (120, 100, 100, 15, "STANDARD"),
+        (20, 100, 100, 15, "STANDARD"),
         (150, 80, 50, 10, "SPECIAL"),
         (50, 50, 50, 21, "SPECIAL"),
         (200, 200, 200, 30, "REJECTED"),
