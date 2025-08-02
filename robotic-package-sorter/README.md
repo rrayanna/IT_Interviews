@@ -20,3 +20,8 @@ Classify packages into:
 ```python
 from sorter import sort
 print(sort(100, 100, 100, 10))  # Output: SPECIAL
+```
+
+### Run Test  
+python test_sorter.py
+
